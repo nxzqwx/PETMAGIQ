@@ -1,1 +1,265 @@
-css
+body {
+    width:100%;
+    margin:0;
+    padding:0px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.section__top {
+background-color: #DF1B6E;
+height:100%;
+width:auto;
+padding:10px;
+}
+
+ul {
+    list-style-type:none;
+}
+
+#section__top--h2 {
+    text-align: center;
+    color:#FFFFFF;
+    padding-top:25px;
+
+}
+
+a:link {
+    text-decoration: none;
+    font-family:"Open Sans" , sans-serif;
+    color:#FFFFFF;
+}
+
+.topnav__left {
+    text-align:center;
+    padding-top: 1px;
+    line-height: 35px;
+  padding-right:10px;
+}
+
+.logo {
+text-align: center;
+margin-top:35px;
+}
+
+#logo {
+width:70px;
+height:30px;
+margin-left: 20px;
+margin-top:10px;
+}
+
+.topnav__right {
+    text-align:center;
+    padding-top: 1px;
+    line-height: 35px;
+
+}
+
+.topnav {
+display:grid;
+grid-template-columns: 1fr 1fr 1fr;
+font-size:75%;
+margin-right:25px;
+}
+
+.content {
+}
+
+.petmagiq-vitality-formula {
+    text-align: center;
+padding-top:25px;
+padding-left:40px;
+
+}
+
+h6 {
+    font-size: 14px;
+      text-align:center;
+     color:#FFFFFF;
+padding-bottom:10px;
+padding:5px;
+
+}
+
+.section__tradition{
+    padding:10px;
+}
+
+#section__tradition--h2
+{
+    text-align:center;
+    margin-top:35px;
+    color:#DF1B6E;
+    margin-bottom:35px;
+}
+
+#section__tradition--p{
+    text-align: center;
+color:#58595B;
+}
+
+
+
+#ganoderma {
+margin-top:35px;
+    width:250px;
+    height:225px;
+}
+
+#cordyceps {
+margin-top:35px;
+    width:225px;
+    height:200px;
+}
+
+.section__tradition--ganoderma{
+    text-align:center;
+        margin-bottom:10px;
+}
+
+.section__tradition--cordyceps{
+    text-align:center;
+    margin-bottom:10px;
+}
+
+#section__tradition--p2 {
+    text-align:center;
+    padding-top:20px;;
+    color:#58595B;
+
+}
+
+.section__profile {
+    padding:10px;
+}
+
+.section__profile--h2 {
+margin-top:75px;
+margin-bottom:50px;
+text-align:center;
+color:#DF1B6E;
+}
+
+
+#section__profile--p {
+    text-align:center;
+    color:#58595B;
+}
+
+#therapeutic-left {
+    max-width:100%
+
+}
+
+#therapeutic-right {
+    max-width:100%
+
+}
+
+.section__philosophy {
+    padding:10px;
+}
+
+.section__philosophy--h2 {
+    margin-top:50px;
+    text-align:center;
+    color:#DF1B6E;
+}
+
+.philosophy {
+    text-align:center;
+    padding-top:35px;
+    padding-bottom:35px;
+}
+
+.section__philosophy--h4 {
+    color:#DF1B6E;
+    padding-left:5px;
+}
+
+.section__philosophy--p1{
+padding-left:5px;
+color:#58595B;
+font-style: italic;
+}
+
+.section__philosophy--p2{
+padding-left:5px;
+color:#58595B;
+}
+
+#philosophy-bg {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.section__product--h2 {
+    margin-top:40px;
+    text-align:center;
+    color:#DF1B6E;
+    margin-bottom:60px;
+}
+
+#productimg {
+    max-width: 100%;
+}
+.product  {
+    text-align: center;
+}
+.section__product--h4 {
+    margin-top:50px;
+    text-align:center;
+    color:#DF1B6E;
+    margin-bottom:20px;
+}
+
+.section__product {
+    padding:10px;
+}
+
+.section__product--p{
+padding-bottom:35px;
+margin-top:20px;
+text-align:center;
+}
+
+
+
+
+/* DEKSTOP VER
+@media only screen and (min-width: 590px) {
+
+    #petmagiq-vitality-formula {
+        width:auto;
+        height:auto;
+    }
+
+ h6 {
+     float:none;
+     margin-left:5px;
+ }
+
+
+#logo{
+    width:auto;
+    height: auto;
+    padding-bottom:25
+}
+
+.topnav {
+    display:grid;
+    grid-template-rows: 2fr;
+}
+li {
+    padding-top:35px;
+        display:inline-block;
+}
+a:link {
+    text-decoration: none;
+width:50%;
+    color:#FFFFFF;
+}
+
+
+}
+*/
